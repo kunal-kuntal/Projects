@@ -112,6 +112,24 @@
       <a1><b>PRODUCT STRATEGY</b></a1>
       <i class="fa-solid fa-ring" style="color: #ffd43b"></i>
     </div>
+     <!-- page 4 -->
+    <div class="educationimg"></div>
+    <a class="educati">EDUCATI</a>
+    <a class="on">ON</a>
+    <a class="experience">EXPERIENCE</a>
+    <div class="redbox">2024-2028</div>
+
+    <!-- PAGE 5 -->
+    <div class="smallbox"></div>
+    <div class="bigbox"></div>
+    <a class="letwork">LET'S WORK</a>
+    <a class="together">together</a>
+    <a class="contactus"
+      >+123-456-7890 <br />
+      hello@abcdsite.com <br />
+      www.portfoliotemplate.com</a
+    >
   </body>
 </html>
+
 
